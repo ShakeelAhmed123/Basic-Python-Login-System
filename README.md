@@ -3,7 +3,7 @@ Did a complete recode and overhaul of the last version. This one stores your cre
 
 A complete, basic login system with sign up feature and captcha.
 
-MAKE SURE YOU HAVE 'username.txt' IN DIRECTORY OR PACKAGE(comes with this package)
+MAKE SURE YOU HAVE 'username.txt' IN DIRECTORY OR PACKAGE (the file does comes with this package)
 
 Just run main.py and use the commands 1 or 2 or 3.
 
