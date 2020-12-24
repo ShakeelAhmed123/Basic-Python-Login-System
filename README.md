@@ -1,4 +1,6 @@
 # Basic-Python-Login-System
+Use LoginSystem2.0 as that is the new version
+
 Did a complete recode and overhaul of the last version. This one stores your credentials in usernames.txt and the code is easier to understand now. (Pls note im a beginner so its not gonna be that good)
 
 A complete, basic login system with sign up feature and captcha.
